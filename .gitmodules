@@ -1,0 +1,3 @@
+[submodule "lib/autosize"]
+	path = lib/autosize
+	url = https://github.com/jackmoore/autosize.git
