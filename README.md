@@ -1,3 +1,6 @@
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:meteor-autosize)](https://atmospherejs.com/ryanwu/meteor-autosize)
+
+
 # Meteor Autosize
 
 This is a meteor package of Autosize, a small and stand-alone script to automatically adjust textarea height to fit text.
@@ -6,12 +9,6 @@ This is a meteor package of Autosize, a small and stand-alone script to automati
 ## Installation
 ```
 meteor add ryanwu:meteor-autosize
-```
-
-or 
-
-```
-mrt add meteor-autosize
 ```
 
 ## Reference
